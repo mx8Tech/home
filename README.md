@@ -1,6 +1,6 @@
 <html>
     <head>
-        maz
+       <title>home</title>
     </head>
 <body>
 
