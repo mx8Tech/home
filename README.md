@@ -1,4 +1,6 @@
-<html><head><title>maz</title>
+<html>
+    <head>
+        maz
     </head>
 <body>
 
